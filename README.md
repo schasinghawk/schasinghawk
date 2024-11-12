@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Savannah Chasing Hawk. My pronouns are she/her, and I am a member of the Cheyenne River Sioux Tribe. I originally got my bachelors from Cornell University for architecture. I'm currently in the Tech Elevator bootcamp to become a Software Developer. After I finish, there are a variety of projects I would love to work on any number of project types. 
+
+Fun Fact: I have a lil chihuahua name Solo (like Han Solo)! Lately, we've had to put his sweaters on cause he hates the winter cold.
